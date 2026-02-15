@@ -16,7 +16,7 @@ from sklearn.preprocessing import MinMaxScaler
 # =========================
 # CONFIG
 # =========================
-DATA_PATH = 'data/BD.json'
+DATA_PATH = '../data/BD.json'
 PAGE_SIZE = 10
 SIM_WEIGHT = 0.7
 RATING_WEIGHT = 0.3
